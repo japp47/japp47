@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an Excel Sheet project using Vanilla JS<br><br>💬 Ask me about Node.js, Microservices, Databases, DSA, and Mathematics<br>📫 How to reach me: jappreets4747@gmail.com<br><br>⚡ Interests: Exploring new tech, diving into mathematics, and solving complex problems<br>🚀 Fun Fact: I think in binary but dream in equations!</p>
+<p align="left">🔭 I’m currently working on an Excel Sheet project using Vanilla JS.<br><br>💬 Ask me about Node.js, Microservices, Databases, DSA, and Mathematics.<br><br>📫 How to reach me: jappreets4747@gmail.com<br><br>⚡ Interests: Exploring new tech, diving into mathematics, and solving complex problems/<br><br>🚀 Fun Fact: I think in binary but dream in equations!</p>
 
 ###
 
