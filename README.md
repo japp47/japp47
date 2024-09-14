@@ -32,7 +32,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/japp47/japp47/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/japp47/japp47/main/.github/workflows/snake.svg" alt="Snake animation" />
+
 
 ###
 
